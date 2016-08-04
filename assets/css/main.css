@@ -1,0 +1,11 @@
+html, body{
+  font-family: sans-serif;
+}
+.wrapper{
+  width: 60%;
+  height: 100%;
+  margin: auto;
+}
+h1{
+  text-align: center;
+}

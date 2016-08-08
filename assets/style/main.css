@@ -1,9 +1,16 @@
 html, body {
   font-family: sans-serif;
   margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
 }
-html{
+.main{
   background: url('../img/arcade.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   position: absolute;
 }
